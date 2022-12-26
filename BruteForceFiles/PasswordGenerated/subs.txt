@@ -1,0 +1,10 @@
+Target: http://thetoppers.htb/
+Total requests: 1296
+==================================================================
+ID    Response   Lines      Word         Chars          Request    
+==================================================================
+
+Total time: 0
+Processed Requests: 1296
+Filtered Requests: 1296
+Requests/sec.: 0
