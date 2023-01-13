@@ -1,4 +1,6 @@
 #!/bin/bash
+#You can conver an ip address in hex that you can find in this path of a server: 
+# /proc/net/route 
 #pass the hex as a parameter 1+ 
 
 for addr
