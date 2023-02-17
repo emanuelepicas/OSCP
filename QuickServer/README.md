@@ -4,10 +4,10 @@ Command to run the logger server:
  
  php -l logger.php
 
-### run the server locally                                                                    
+### Run the server locally                                                                    
 
 php -S localhost:8000 logger.php
 
-### redirect the localsever with ngrook
+### Redirect the localsever with ngrook
 
 ngrok http 8000
